@@ -30,7 +30,7 @@ https://damp-tor-66727.herokuapp.com/
 
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/dnsghd49/offlineFunc/)
+![ScreenShot](https://raw.github.com/dnsghd49/offlineFunc/screenshot/screenshot.PNG)
 
 ## Installation
 
