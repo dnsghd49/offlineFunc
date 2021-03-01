@@ -42,8 +42,7 @@ npm install
 
 ## Usage
 
-nothing~
-
+User can use this app to manage their bank account balance everywhere in the world with the offline functionalities. 
 
   
 ## Contributing
